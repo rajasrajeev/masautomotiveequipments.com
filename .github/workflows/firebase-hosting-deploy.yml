@@ -1,9 +1,9 @@
-name: Deploy to Firebase Hosting
+name: Mas Automotive Equipments
 
 on:
   push:
     branches:
-      - main # Change this to your desired branch
+      - master # Change this to your desired branch
 
 jobs:
   build:
